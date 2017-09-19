@@ -1,0 +1,2 @@
+alias cc=`clear`
+alias l='ls -lah --group-directories-first`
