@@ -8,7 +8,7 @@ kali-desktop-live
 # (-full is the default, -all is absolutely everything, the rest
 # corresponds to various subsets)
 kali-linux-full
- kali-linux-all
+kali-linux-all
 # kali-linux-sdr
 # kali-linux-gpu
 # kali-linux-wireless
@@ -23,17 +23,16 @@ kali-linux-full
 kali-desktop-common
 xorg
 dmenu
-#conky
+conky
 i3
+lightdm
+scrot
+feh
+ppearance 
+xfonts-terminus
 git
 vim
-screen
-tshark
-tcpdump
-stunnel
-python-dev
 avahi-daemon
 avahi-discover
 avahi-utils
-software-properties-common
 build-essential
